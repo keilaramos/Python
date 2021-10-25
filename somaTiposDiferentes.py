@@ -1,0 +1,5 @@
+idade1 = input("Digite uma idade:")
+idade2 = input("Digite outra idade:")
+idade1 = int(idade1)
+idade2 = int(idade2)
+print("A soma das idades é:", idade1 + idade2)
