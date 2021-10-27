@@ -27,7 +27,7 @@ while (rodada <= total_de_tentativas):
             print("O seu chute foi menor do que o número secreto!")
 
     rodada = rodada + 1
-
+#Interpolação de números e data
 print("Fim do jogo")
 print("Interpolação de números e data")
 print("R$ {:6.1f}".format(1400.14))
