@@ -33,4 +33,6 @@ print("Interpolação de números e data")
 print("R$ {:6.1f}".format(1400.14))
 print("R$ {:07.2f}".format(1.396))
 print("Data {:02d}/{:02d}".format(26,10))
+nome = 'Keila'
+print(f'Meu nome é {nome}')
 print("Elaborado pela  Sra. {1} {0}".format("Ramos","Keila"))
