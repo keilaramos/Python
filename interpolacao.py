@@ -29,4 +29,8 @@ while (rodada <= total_de_tentativas):
     rodada = rodada + 1
 
 print("Fim do jogo")
+print("Interpolação de números e data")
+print("R$ {:6.1f}".format(1400.14))
+print("R$ {:07.2f}".format(1.396))
+print("Data {:02d}/{:02d}".format(26,10))
 print("Elaborado pela  Sra. {1} {0}".format("Ramos","Keila"))
