@@ -9,7 +9,7 @@ total_de_tentativas = 0
 pontos = 100
 
 print("Qual o nível de dificuldade?")
-print("(1) Fácil (2) Médio (3) Difícil ", numero_secreto)
+print("(1) Fácil (2) Médio (3) Difícil ")
 
 nivel = int(input("Defina o nível: "))
 
